@@ -9,6 +9,7 @@ Artificial Intelligence: The Big Picture of AI
 
 ![image](https://user-images.githubusercontent.com/40399697/209483992-8acb465a-0fd3-4c42-852c-40baeea42ade.png)
 
+![image](https://user-images.githubusercontent.com/40399697/209484217-91da79f7-58fa-483b-8703-8838078847b6.png)
 
 
 By Matthew Renze
