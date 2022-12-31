@@ -26,6 +26,15 @@ Depp Learning
 ![image](https://user-images.githubusercontent.com/40399697/210122356-ac3357b8-3da2-4b79-9c55-8d3178264921.png)
 
 
+Reiforcement Learning.
+
+![image](https://user-images.githubusercontent.com/40399697/210156521-75e961d3-eee7-4eb2-80d8-5756d9c4c837.png)
+
+![image](https://user-images.githubusercontent.com/40399697/210156526-88d7eb64-5fb9-4d95-9c08-f190c0f4bbd3.png)
+
+![image](https://user-images.githubusercontent.com/40399697/210156589-e8590fb6-8160-4dfd-b55e-73aa8e1f09b6.png)
+
+
 
 By Matthew Renze
 https://app.pluralsight.com/
