@@ -11,6 +11,21 @@ Artificial Intelligence: The Big Picture of AI
 
 ![image](https://user-images.githubusercontent.com/40399697/209484217-91da79f7-58fa-483b-8703-8838078847b6.png)
 
+**Modern A.I
+
+Machine Learning
+
+![image](https://user-images.githubusercontent.com/40399697/210122095-f19986cb-c217-409b-b6f4-ca533a632374.png)
+
+![image](https://user-images.githubusercontent.com/40399697/210122144-434dc49b-8150-400f-8df1-078b9b122c6c.png)
+
+![image](https://user-images.githubusercontent.com/40399697/210122194-e138791b-7443-42a3-89b3-c9d712f8db17.png)
+
+Depp Learning
+
+![image](https://user-images.githubusercontent.com/40399697/210122356-ac3357b8-3da2-4b79-9c55-8d3178264921.png)
+
+
 
 By Matthew Renze
 https://app.pluralsight.com/
