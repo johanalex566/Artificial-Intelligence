@@ -35,6 +35,8 @@ Reiforcement Learning.
 ![image](https://user-images.githubusercontent.com/40399697/210156589-e8590fb6-8160-4dfd-b55e-73aa8e1f09b6.png)
 
 
+![image](https://user-images.githubusercontent.com/40399697/211172568-023c5851-0f68-4af1-b195-7c4cdd056c33.png)
+
 
 By Matthew Renze
 https://app.pluralsight.com/
