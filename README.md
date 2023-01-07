@@ -40,6 +40,11 @@ Repositories
 
 ![image](https://user-images.githubusercontent.com/40399697/211172586-3d820bd9-60f4-44ac-bd93-975c36f587ae.png)
 
+Learn more
+
+![image](https://user-images.githubusercontent.com/40399697/211173149-fa7ad317-d5ef-4e64-b4f4-1acbc0257031.png)
+
+
 
 By Matthew Renze
 https://app.pluralsight.com/
